@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumitvashista
 - 👀 I’m interested in MACHINE LEARNING, Artificial Intelligence and Web Development. 
-- 🌱 I’m currently learning .Research in Physics,  I want to connect physics robotics and AI together.
-- 💞️ I’m looking to collaborate on .some interesting projects
+- 🌱 I’m currently learning and pursuing Research in Physics,  I want to connect physics robotics and AI together.
+- 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me https://sumitco.tech
 
 <!---
