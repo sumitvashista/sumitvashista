@@ -2,7 +2,7 @@
 - 👀 I’m interested in MACHINE LEARNING, Artificial Intelligence and Web Development. 
 - 🌱 I’m currently learning and pursuing Research in Physics,  I want to connect physics robotics and AI together.
 - 💞️ I’m looking to collaborate on some interesting projects
-- 📫 How to reach me https://sumitco.tech
+- 📫 How to reach me https://sumitco.in
 
 <!---
 sumitvashista/sumitvashista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
